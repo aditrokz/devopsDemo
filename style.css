@@ -1,0 +1,22 @@
+#mainHeading{
+color: red;
+}
+
+#para1
+{
+color:blue;
+font-family: "Times New Roman", Times, serif;
+font-style: italic;
+}
+
+#header2
+{
+ font-style: oblique;
+}
+
+#image_1
+{
+width:20%;
+height:20%;
+transform: scaleX(1);
+}
